@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>aHao个人博客</title>
+  <title>aHao Blog</title>
   
-  <subtitle>勉励</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.jiujiyi.cn/"/>
@@ -13,8 +13,8 @@
   
   <entry>
     <title>test</title>
-    <link href="https://blog.jiujiyi.cn/2019/03/25/test/"/>
-    <id>https://blog.jiujiyi.cn/2019/03/25/test/</id>
+    <link href="https://blog.jiujiyi.cn/cjtpkghit0001gguo6vholauy.html"/>
+    <id>https://blog.jiujiyi.cn/cjtpkghit0001gguo6vholauy.html</id>
     <published>2019-03-25T10:22:05.000Z</published>
     <updated>2019-03-25T10:22:05.222Z</updated>
     
@@ -27,8 +27,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://blog.jiujiyi.cn/2019/03/25/hello-world/"/>
-    <id>https://blog.jiujiyi.cn/2019/03/25/hello-world/</id>
+    <link href="https://blog.jiujiyi.cn/cjtpkghio0000gguo1knxkyjk.html"/>
+    <id>https://blog.jiujiyi.cn/cjtpkghio0000gguo1knxkyjk.html</id>
     <published>2019-03-25T09:07:17.715Z</published>
     <updated>2019-03-25T09:07:17.715Z</updated>
     
